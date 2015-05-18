@@ -83,7 +83,7 @@ public class ArbreH {
                 this.arrayFils.add(arbreFils);
                 return arbreFils;
             }
-            /* Si la liste est déjà créee, on ajoute la chaine dans la liste du fils */
+            /* Si la liste est déjà crée, on ajoute la chaine dans la liste du fils */
             else {
                 arbreFils = this.arrayFils.get(0);
                 arbreFils.arrayChaine.add((String) element);
