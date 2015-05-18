@@ -16,7 +16,7 @@ public class Couple {
 
     public int getJ() {
 
-        return this.j;
+        return this.j; 
     }
 
     @Override
