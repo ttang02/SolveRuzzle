@@ -15,7 +15,7 @@ public class ArbreH {
     private static int compteurEspace = 0;
     private static int nbElementList = 0;
     private static int nbListe = 0;
-    private static int tailleMaxListe = 0;
+    private static int tailleMaxListe = 0; 
 
     public boolean isEstFeuille() {
         return estFeuille;
