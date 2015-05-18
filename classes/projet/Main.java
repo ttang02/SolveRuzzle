@@ -79,7 +79,6 @@ public class Main {
         
          fen.getMainPanel().lisenKey(fen.getMainPanel().getMatricePanel());
          fen.getMainPanel().lisenMouse(fen.getMainPanel().getMatricePanel());
-
     }
 
 }
