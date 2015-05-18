@@ -36,6 +36,6 @@ public class WordPanel extends JPanel {
         return wordPanelTableRight;
     }
     
-    
+
 
 }
