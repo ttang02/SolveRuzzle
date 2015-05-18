@@ -19,7 +19,7 @@ public class Case {
     }
 
     public int getPoint() {
-        return point; 
+        return point;
     }
 
     public void setTraveled(boolean isTraveled) {
