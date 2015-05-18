@@ -38,7 +38,6 @@ public class WordPanelTable extends JPanel {
             
             model.addRow(new Object[]{wf.getMot(), wf.getPoint(),wf.getListCouple()});
         }
-
         table.setAutoResizeMode(JTable.AUTO_RESIZE_OFF);
         table.getColumnModel().getColumn(0).setPreferredWidth(139);
         table.getColumnModel().getColumn(1).setPreferredWidth(139);
