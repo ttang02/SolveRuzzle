@@ -6,5 +6,5 @@ public enum Bonus {
     DL,
     TL,
     DW,
-    TW
+    TW 
 }
