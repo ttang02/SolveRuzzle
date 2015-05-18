@@ -24,7 +24,7 @@ public class MainPanel extends JPanel {
         /* Création du panel pour les 2 tableaux */
         this.wordPanel = new WordPanel(alWf);
         this.matricePanel = new MatricePanel(m);
-
+        
         /* Ajout du panel au panel principale */
         this.add(wordPanel);
         /* Ajout de la matrice */
