@@ -26,7 +26,7 @@ public class MatricePanel extends JPanel {
         this.setMinimumSize(new Dimension(400, 400));
         this.setBackground(new Color(51, 153, 255));
 
-        
+    
         
         for (int i = 0; i < 4; i++) {
 
