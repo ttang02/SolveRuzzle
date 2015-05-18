@@ -109,7 +109,7 @@ public class WordFound implements java.lang.Comparable<WordFound>{
             break;
         }
     }
-
+    
     public int getPoint() {
         return points;
     }
