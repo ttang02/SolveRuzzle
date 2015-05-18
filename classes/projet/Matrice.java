@@ -21,7 +21,7 @@ public class Matrice {
     private Matrice(Case[][] matrice) {
         this.setMatrice(matrice);
     }
-
+    
     public void setMatrice(Case[][] matrice) {
         this.matrice = matrice;
     }
