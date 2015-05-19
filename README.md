@@ -9,4 +9,5 @@ DW = Double word le mot compte double
 TL = Triple letter la lettre de cette case compte triple
 TW = Triple word le mot compte triple
 
-La commande pour éxécuter Java -jar Ruzzle.jar grille.txt bonus.txt
+La commande pour éxécuter Java -jar Ruzzle.jar grille.txt bonus.txt mots.txt
+Le dernier paramètre est le fichier de dictionnaire.
